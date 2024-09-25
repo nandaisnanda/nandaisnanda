@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/3o6gE5cV4GSnAzx1Ne/giphy.gif" alt="Earth GIF" width="300"/>
+</div>
 
-<!--
-**nandaisnanda/nandaisnanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, I'm **Ananda Gunawan**  
+<a href="https://linkedin.com/in/ananda16gunawan"><img src="https://img.shields.io/badge/LinkedIn-Ananda%20Gunawan-blue?style=flat-square&logo=linkedin"></a> 
+<a href="https://github.com/nandaisnanda"><img src="https://img.shields.io/badge/GitHub-nandaisnanda-black?style=flat-square&logo=github"></a>
 
-Here are some ideas to get you started:
+I'm currently a **5th semester student** majoring in **Cartography and Remote Sensing** at **Universitas Gadjah Mada** 🏫. I have a strong passion for **GIS**, particularly in **spatial modeling** and **machine learning applications** in **remote sensing**. My focus is mainly on **atmospheric remote sensing**, where I explore the intersection between **technology** and **environment** 🌍.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 **Areas of Interest:**
+- 🌍 **Geographic Information Systems (GIS)**
+- 🧠 **Spatial Modeling**
+- 🤖 **Machine Learning in Remote Sensing**
+- ☁️ **Atmospheric Remote Sensing**
+
+---
+
+### 💻 **Technologies & Tools:**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QGIS-3F7D24?style=for-the-badge&logo=qgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ENVI-ff0000?style=for-the-badge&logo=default&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Earth_Engine-34A853?style=for-the-badge&logo=googleearth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArcGIS-56A902?style=for-the-badge&logo=esri&logoColor=white"/>
+</p>
+
+---
+
+### 📚 **Current Learning:**
+- 📊 Advanced **spatial data analysis**
+- 🤖 Machine learning techniques for **remote sensing**
+- ☁️ Atmospheric data processing
+
+---
+
+### 🌐 **Let's Connect:**
+- 💼 [**LinkedIn**](https://linkedin.com/in/ananda16gunawan)
+- 📁 [**GitHub**](https://github.com/nandaisnanda)
+
+Feel free to explore my repositories and connect with me for collaborations or discussions on **GIS**, **remote sensing**, or **spatial data analysis**!
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nandaisnanda&show_icons=true&theme=radical" alt="Ananda's GitHub Stats" />
+</div>
