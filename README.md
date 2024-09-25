@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com/gifs/EuropeanSpaceAgency-space-esa-european-agency-8Am0UlfiwZcgEDOy4h" alt="Earth GIF" width="300"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fsatellite-navigation&psig=AOvVaw2GcyD657OEJcozW_4SWX4R&ust=1727361376071000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIium92o3ogDFQAAAAAdAAAAABAE" alt="EU Satelite" width="300"/>
 </div>
 
 ## Hi there 👋, I'm **Ananda Gunawan**  
