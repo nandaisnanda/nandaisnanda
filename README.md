@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6gE5cV4GSnAzx1Ne/giphy.gif" alt="Earth GIF" width="300"/>
+  <img src="https://giphy.com/gifs/EuropeanSpaceAgency-space-esa-european-agency-8Am0UlfiwZcgEDOy4h" alt="Earth GIF" width="300"/>
 </div>
 
 ## Hi there 👋, I'm **Ananda Gunawan**  
