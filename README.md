@@ -2,15 +2,11 @@
 
 ### 👋 Hello there! I'm Ananda
 
-Currently working on **GeoAI**, **spatial data quality**, and **urban analytics**
-
-<br/>
-
 🎓 &nbsp;Fresh graduate in Cartography and Remote Sensing, Universitas Gadjah Mada
 
 💼 &nbsp;Open to opportunities in GeoAI, remote sensing, and spatial data engineering
 
-🌏 &nbsp;I like to talk about GeoAI and open geospatial data
+🛰️ &nbsp;I work on satellite imagery, spatial data quality, and urban analytics
 
 🧰 &nbsp;Building [**GeoQC**](https://github.com/nandaisnanda/GeoQC) — a Python toolkit for geospatial data quality control
 
@@ -18,55 +14,63 @@ Currently working on **GeoAI**, **spatial data quality**, and **urban analytics*
 
 <br/>
 
-## Favorite Tech
+## Geospatial
 
-Tools, languages, and other things that I like to work with. This doesn't indicate my skill level.
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL%2FOGR-5CB85C?style=for-the-badge)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
+![Shapely](https://img.shields.io/badge/Shapely-2B7A78?style=for-the-badge)
+![Rasterio](https://img.shields.io/badge/Rasterio-C1272D?style=for-the-badge)
+![GeoParquet](https://img.shields.io/badge/GeoParquet-1A1AFF?style=for-the-badge)
+![PySAL](https://img.shields.io/badge/PySAL-8E44AD?style=for-the-badge)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="42" height="42" alt="R"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42" alt="pandas"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="scikit-learn"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="42" height="42" alt="OpenCV"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="42" height="42" alt="Matplotlib"/>
-</p>
+## Remote Sensing
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="42" height="42" alt="Plotly"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="42" height="42" alt="Anaconda"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" alt="Docker"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="42" height="42" alt="Bash"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code"/>
-</p>
+![Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Sentinel--1%20%2F%202-0B3D91?style=for-the-badge)
+![Landsat](https://img.shields.io/badge/Landsat-005288?style=for-the-badge)
+![xarray](https://img.shields.io/badge/xarray-0A9396?style=for-the-badge)
+![Rioxarray](https://img.shields.io/badge/rioxarray-1D7874?style=for-the-badge)
+![STAC](https://img.shields.io/badge/STAC-2F4858?style=for-the-badge)
+
+## Programming & Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br/>
 
-## Geospatial Stack
+## GitHub Stats
 
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
-![Shapely](https://img.shields.io/badge/Shapely-2B7A78?style=for-the-badge)
-![GDAL](https://img.shields.io/badge/GDAL%2FOGR-5CB85C?style=for-the-badge)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge)
-![Rasterio](https://img.shields.io/badge/Rasterio-C1272D?style=for-the-badge)
-![xarray](https://img.shields.io/badge/xarray-0A9396?style=for-the-badge)
-![GeoParquet](https://img.shields.io/badge/GeoParquet-1A1AFF?style=for-the-badge)
-![PySAL](https://img.shields.io/badge/PySAL-8E44AD?style=for-the-badge)
-![Earth Engine](https://img.shields.io/badge/Earth%20Engine-4285F4?style=for-the-badge)
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge)
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nandaisnanda&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=0d1117&title_color=3ef2a1&icon_color=00e5ff&text_color=8b9ba3&border_color=30363d&rank_icon=github" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandaisnanda&layout=compact&langs_count=8&bg_color=0d1117&title_color=3ef2a1&text_color=8b9ba3&border_color=30363d" alt="Top languages"/>
+</p>
+
+<p>
+  <img height="165" src="https://streak-stats.demolab.com?user=nandaisnanda&background=0d1117&border=30363d&stroke=30363d&ring=3ef2a1&fire=00e5ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3ef2a1&sideLabels=8b9ba3&dates=8b9ba3" alt="Streak"/>
+</p>
+
+<!-- Kalau salah satu kartu di atas tampil broken, itu rate limit dari servernya.
+     Biasanya normal lagi setelah beberapa menit. Bukan salah link. -->
 
 <br/>
 
 ## Featured Project
 
-**[GeoQC](https://github.com/nandaisnanda/GeoQC)** — detects geometry defects and repairs topology with minimal shape change. One validation engine, three surfaces: Python API, CLI, and web app.
+**[GeoQC](https://github.com/nandaisnanda/GeoQC)** — detects geometry defects and repairs topology with minimal shape change. One validation engine exposed three ways, so the Python API, the CLI, and the web app always agree on what is valid.
 
 ```bash
 pip install geoqc
