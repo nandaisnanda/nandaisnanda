@@ -56,7 +56,7 @@
 
 ## GitHub Stats
 
-<img src="./metrics.svg" width="100%" alt="GitHub metrics"/>
+<img src="./metrics.yml" width="100%" alt="GitHub metrics"/>
 
 
 <br/>
