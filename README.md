@@ -54,17 +54,13 @@
 
 ## GitHub Stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nandaisnanda&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=0d1117&title_color=3ef2a1&icon_color=00e5ff&text_color=8b9ba3&border_color=30363d&rank_icon=github" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandaisnanda&layout=compact&langs_count=8&bg_color=0d1117&title_color=3ef2a1&text_color=8b9ba3&border_color=30363d" alt="Top languages"/>
-</p>
+<!-- LANGKAH 1: jalankan workflow "Metrics" di tab Actions sampai hijau.
+     LANGKAH 2: cek file metrics.svg sudah muncul di root repo.
+     LANGKAH 3: hapus baris <!- - dan - -> di bawah ini supaya gambarnya tampil.
 
-<p>
-  <img height="165" src="https://streak-stats.demolab.com?user=nandaisnanda&background=0d1117&border=30363d&stroke=30363d&ring=3ef2a1&fire=00e5ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3ef2a1&sideLabels=8b9ba3&dates=8b9ba3" alt="Streak"/>
-</p>
+<img src="./metrics.svg" width="100%" alt="GitHub metrics"/>
 
-<!-- Kalau salah satu kartu di atas tampil broken, itu rate limit dari servernya.
-     Biasanya normal lagi setelah beberapa menit. Bukan salah link. -->
+-->
 
 <br/>
 
