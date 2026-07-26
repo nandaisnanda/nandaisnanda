@@ -37,30 +37,27 @@
 
 ## Programming & Data
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Rasterio](https://img.shields.io/badge/Rasterio-C1272D?style=for-the-badge)
+![xarray](https://img.shields.io/badge/xarray-0A9396?style=for-the-badge)
+![PySAL](https://img.shields.io/badge/PySAL-8E44AD?style=for-the-badge)
+![Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Sentinel--1%20%2F%202-0B3D91?style=for-the-badge)
+![Landsat](https://img.shields.io/badge/Landsat-005288?style=for-the-badge)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge)
+![ENVI](https://img.shields.io/badge/ENVI-6A4C93?style=for-the-badge)
+![ERDAS](https://img.shields.io/badge/ERDAS%20Imagine-8B4513?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 <br/>
 
 ## GitHub Stats
 
-<!-- LANGKAH 1: jalankan workflow "Metrics" di tab Actions sampai hijau.
-     LANGKAH 2: cek file metrics.svg sudah muncul di root repo.
-     LANGKAH 3: hapus baris <!- - dan - -> di bawah ini supaya gambarnya tampil.
-
 <img src="./metrics.svg" width="100%" alt="GitHub metrics"/>
 
--->
 
 <br/>
 
