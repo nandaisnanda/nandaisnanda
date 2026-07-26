@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 170" width="840" height="170" role="img" aria-label="Ananda Gunawan - GeoAI, GIS, Urban Analytics">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0f2b2e"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3ef2a1"/>
+      <stop offset="100%" stop-color="#00e5ff"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#3ef2a1" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect width="840" height="170" rx="14"/></clipPath>
+  </defs>
+
+  <style>
+    .drift { animation: drift 12s linear infinite; }
+    .caret { animation: blink 1s steps(2) infinite; }
+    .ring  { animation: ring 3s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+    .r2 { animation-delay: 1s } .r3 { animation-delay: 2s }
+    .bar   { animation: bar 4s ease-in-out infinite; transform-origin: 60px 128px; }
+    .s1, .s2, .s3, .s4 { animation: cycle 12s ease-in-out infinite; }
+    .s2 { animation-delay: 3s } .s3 { animation-delay: 6s } .s4 { animation-delay: 9s }
+
+    @keyframes drift { to { transform: translate(-34px, -34px) } }
+    @keyframes blink { 50% { opacity: 0 } }
+    @keyframes ring  { 0% { transform: scale(.5); opacity: .9 } 70% { transform: scale(2.4); opacity: 0 } 100% { opacity: 0 } }
+    @keyframes bar   { 0%,100% { transform: scaleX(.35) } 50% { transform: scaleX(1) } }
+    @keyframes cycle {
+      0%   { opacity: 0; transform: translateY(8px) }
+      4%   { opacity: 1; transform: translateY(0) }
+      21%  { opacity: 1; transform: translateY(0) }
+      25%  { opacity: 0; transform: translateY(-8px) }
+      100% { opacity: 0; transform: translateY(-8px) }
+    }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="840" height="170" fill="url(#bg)"/>
+    <g class="drift"><rect x="-40" y="-40" width="920" height="250" fill="url(#grid)"/></g>
+
+    <!-- radar kecil di kanan -->
+    <g transform="translate(742,85)">
+      <circle r="46" fill="none" stroke="#3ef2a1" stroke-opacity=".18"/>
+      <circle r="30" fill="none" stroke="#3ef2a1" stroke-opacity=".14"/>
+      <circle r="14" fill="none" stroke="#3ef2a1" stroke-opacity=".10"/>
+      <circle r="2.5" fill="#3ef2a1"/>
+      <g fill="#3ef2a1">
+        <circle cx="24" cy="-18" r="2.6"/>
+        <circle cx="24" cy="-18" r="6" fill="none" stroke="#3ef2a1" class="ring"/>
+        <circle cx="-20" cy="14" r="2.6"/>
+        <circle cx="-20" cy="14" r="6" fill="none" stroke="#3ef2a1" class="ring r2"/>
+        <circle cx="18" cy="26" r="2.6"/>
+        <circle cx="18" cy="26" r="6" fill="none" stroke="#3ef2a1" class="ring r3"/>
+      </g>
+    </g>
+
+    <g font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif">
+      <text x="60" y="66" fill="#ffffff" font-size="34" font-weight="700">Ananda Gunawan</text>
+
+      <!-- subjudul bergantian -->
+      <g font-size="18" font-weight="600" fill="#3ef2a1">
+        <text x="60" y="102" class="s1">GeoAI Engineer<tspan class="caret" dx="4">▌</tspan></text>
+        <text x="60" y="102" class="s2">GIS &amp; Remote Sensing<tspan class="caret" dx="4">▌</tspan></text>
+        <text x="60" y="102" class="s3">Urban Analytics<tspan class="caret" dx="4">▌</tspan></text>
+        <text x="60" y="102" class="s4">Open Geodata<tspan class="caret" dx="4">▌</tspan></text>
+      </g>
+
+      <rect x="60" y="124" width="120" height="3" rx="1.5" fill="url(#line)" class="bar"/>
+      <text x="60" y="150" fill="#8b9ba3" font-size="12.5">B.Sc. Cartography &amp; Remote Sensing · Universitas Gadjah Mada</text>
+      <g transform="translate(504,133)">
+        <rect width="140" height="22" rx="11" fill="#3ef2a1" fill-opacity=".10" stroke="#3ef2a1" stroke-opacity=".45"/>
+        <circle cx="15" cy="11" r="4" fill="#3ef2a1" class="caret"/>
+        <text x="27" y="15" fill="#3ef2a1" font-size="11" font-weight="600" letter-spacing="1">OPEN TO WORK</text>
+      </g>
+    </g>
+
+    <rect x="0.5" y="0.5" width="839" height="169" rx="14" fill="none" stroke="#3ef2a1" stroke-opacity=".22"/>
+  </g>
+</svg>
