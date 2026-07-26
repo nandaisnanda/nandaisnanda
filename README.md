@@ -54,17 +54,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <br/>
 
-## GitHub Stats
-
-<img src="./metrics.yml" width="100%" alt="GitHub metrics"/>
-
-
-<br/>
-
-## Featured Project
-
-**[GeoQC](https://github.com/nandaisnanda/GeoQC)** — detects geometry defects and repairs topology with minimal shape change. One validation engine exposed three ways, so the Python API, the CLI, and the web app always agree on what is valid.
-
-```bash
-pip install geoqc
-```
