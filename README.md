@@ -391,12 +391,63 @@ sudo shutdown -h now
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nandaisnanda/nandaisnanda/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nandaisnanda/nandaisnanda/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nandaisnanda/nandaisnanda/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Anan's contribution snake"
+    src="https://raw.githubusercontent.com/nandaisnanda/nandaisnanda/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-<sub>Python eating my contributions instead of my RAM for once.</sub>
+<br/>
+
+<sub>
+🐍 Python eating my contributions instead of my RAM for once.
+</sub>
 
 </div>
 
+---
+
+## 📊 `github telemetry`
+
+<div align="center">
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=nandaisnanda&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+  alt="Anan's GitHub stats"
+/>
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandaisnanda&layout=compact&theme=github_dark&hide_border=true"
+  alt="Anan's most used languages"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=nandaisnanda&theme=github-dark-blue&hide_border=true"
+  alt="Anan's GitHub streak"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nandaisnanda&theme=github-compact&hide_border=true&area=true"
+  width="95%"
+  alt="Anan's contribution activity graph"
+/>
+
+</div>
 ---
 
 ## 📊 `github telemetry`
