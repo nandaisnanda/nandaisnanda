@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2300&pause=650&color=58A6FF&center=true&vCenter=true&width=850&lines=hi%2C+I'm+Anan+%F0%9F%91%8B;I+teach+machines+to+look+at+Earth+%F0%9F%8C%8D;GeoAI+%C2%B7+GIS+%C2%B7+Fernerkundung+%F0%9F%9B%B0%EF%B8%8F;%E6%88%91%E5%96%9C%E6%AC%A2%E5%9C%B0%E5%9B%BE+%C2%B7+ich+mag+Satelliten;probably+debugging+a+.tif+right+now..."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2300&pause=650&color=58A6FF&center=true&vCenter=true&width=850&lines=hi%2C+I'm+Anan+%F0%9F%91%8B;mostly+learning+how+machines+see+Earth+%F0%9F%8C%8D;GeoAI+%C2%B7+GIS+%C2%B7+Fernerkundung+%F0%9F%9B%B0%EF%B8%8F;%E6%88%91%E5%96%9C%E6%AC%A2%E5%9C%B0%E5%9B%BE+%C2%B7+ich+mag+Satelliten;probably+debugging+a+.tif+right+now..."/>
 
 <br/>
 
@@ -30,23 +30,34 @@
 
 ## 🧑🏻‍💻 `anan@earth:~$ whoami`
 
-```yaml id="nm3h76"
+```yaml
 name: Anan
 background: Cartography & Remote Sensing
 
+mostly_into:
+  🛰️ Remote Sensing
+  🧠 GeoAI
+  🗺️ GIS
+  🗄️ Spatial Data
+
 currently:
-  🛰️ watching: Earth
-  🧠 learning: GeoAI
   🧹 building: GeoQC
   🐍 speaking_to: Python
   🐛 debugging: "warum???"
+  🌍 looking_at: Earth
+
+also_happy_to_talk_about:
+  🔎 OSINT
+  🪙 crypto
+  🐧 Linux
+  🛰️ satellites
 
 status: still figuring things out 🚶🏻‍♀️
 ```
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1600&pause=450&color=FFB86C&center=true&vCenter=true&width=760&lines=%F0%9F%8C%8D+GIS;%F0%9F%9B%B0%EF%B8%8F+Remote+Sensing;%F0%9F%A7%A0+GeoAI;%F0%9F%95%B8%EF%B8%8F+Graph+Learning;%F0%9F%97%84%EF%B8%8F+Spatial+Engineering;%F0%9F%90%87+...and+too+many+rabbit+holes+%F0%9F%98%AD"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1600&pause=450&color=FFB86C&center=true&vCenter=true&width=760&lines=%F0%9F%8C%8D+GIS;%F0%9F%9B%B0%EF%B8%8F+Remote+Sensing;%F0%9F%A7%A0+GeoAI;%F0%9F%95%B8%EF%B8%8F+Graph+Learning;%F0%9F%97%84%EF%B8%8F+Spatial+Engineering;%F0%9F%90%87+...and+a+few+rabbit+holes+%F0%9F%98%AD"/>
 
 </div>
 
@@ -118,7 +129,7 @@ status: still figuring things out 🚶🏻‍♀️
 
 Because:
 
-```python id="5im7ja"
+```python
 gdf.is_valid.all()
 ```
 
@@ -136,26 +147,25 @@ should not be an emotionally significant event.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=1400&pause=350&color=BD93F9&center=true&vCenter=true&width=820&lines=%F0%9F%A7%A0+Graph+Neural+Networks;%F0%9F%93%A1+SAR+%2B+Optical+Fusion;%F0%9F%8C%8D+Spatial+Machine+Learning;%F0%9F%95%B8%EF%B8%8F+Urban+Networks;%F0%9F%97%84%EF%B8%8F+Spatial+Data+Engineering;%F0%9F%94%90+Cybersecurity;%F0%9F%AA%99+Crypto;%F0%9F%90%A7+Linux;%F0%9F%90%87+HILFE.+TOO+MANY+RABBIT+HOLES."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=1400&pause=350&color=BD93F9&center=true&vCenter=true&width=820&lines=%F0%9F%A7%A0+Graph+Neural+Networks;%F0%9F%93%A1+SAR+%2B+Optical+Fusion;%F0%9F%8C%8D+Spatial+Machine+Learning;%F0%9F%95%B8%EF%B8%8F+Urban+Networks;%F0%9F%97%84%EF%B8%8F+Spatial+Data+Engineering;%F0%9F%94%8E+OSINT;%F0%9F%AA%99+Crypto;%F0%9F%90%A7+Linux;%F0%9F%90%87+HILFE.+TOO+MANY+RABBIT+HOLES."/>
 
 <br/>
 
-### `earth observation`
+### `main rabbit hole`
 
-🛰️ `Sentinel-2` → 🌱 spectral information  
-📡 `Sentinel-1` → 🌧️ *clouds? kein Problem.*
-
-<br/>
-
-### `spatial ML`
-
-🗺️ `place` → 🕸️ `relationships` → 🧠 `model`
+🛰️ `satellites` → 🗺️ `spatial data` → 🧠 `GeoAI`
 
 <br/>
 
-### `current scientific opinion`
+### `things I can talk about for suspiciously long`
 
-**locations are not independent spreadsheet rows.**
+🔎 `OSINT` · 🪙 `crypto` · 🐧 `Linux` · 🛰️ `satellites`
+
+<br/>
+
+<sub>
+not claiming expertise — I just genuinely enjoy learning and talking about them :)
+</sub>
 
 </div>
 
@@ -163,18 +173,19 @@ should not be an emotionally significant event.
 
 ## 🗺️ `anan.rules`
 
-```diff id="bcd3w4"
+```diff
 + geography matters
 + topology matters
 + CRS matters
 + reproducibility matters
 + .tif > .jpg
 + data > decorative maps
++ curiosity is allowed
 
 - EPSG:4326 for distance
 - random spatial splits
 - final_final_REAL_v7.shp
-- "looks right to me"
+- pretending to know everything
 ```
 
 <div align="center">
@@ -187,16 +198,21 @@ should not be an emotionally significant event.
 
 ## 🖥️ `systemctl status anan`
 
-```text id="qv1rjj"
+```text
 ● anan.service
   status       active (learning)
 
   GeoAI        █████████░
   GIS          █████████░
   RS           ████████░░
+
   Deutsch      ███░░░░░░░  versucht es
   中文          ██░░░░░░░░  慢慢来
-  coffee       ███░░░░░░░  kritisch
+
+  rabbit_holes
+  ├── OSINT    🔎 curious
+  ├── crypto   🪙 curious
+  └── Linux    🐧 poking around
 
   satellite    🟢 online
   geometry     🟡 probably valid
@@ -225,7 +241,7 @@ should not be an emotionally significant event.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1800&pause=600&color=7EE787&center=true&vCenter=true&width=800&lines=AI+%2F+RS+%2F+crypto+%2F+cybersec%3F;gern%2C+ping+me+%F0%9F%9B%B0%EF%B8%8F;%E6%88%91%E8%BF%98%E5%9C%A8%E5%AD%A6%E4%B9%A0+%C2%B7+still+figuring+things+out;curiosity+%3E+pretending+to+know+everything"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1800&pause=600&color=7EE787&center=true&vCenter=true&width=820&lines=GeoAI+%2F+RS+%2F+GIS%3F+absolutely+%F0%9F%9B%B0%EF%B8%8F;OSINT+%2F+crypto%3F+gern%2C+let's+talk+%F0%9F%90%87;%E6%88%91%E8%BF%98%E5%9C%A8%E5%AD%A6%E4%B9%A0+%C2%B7+still+figuring+things+out;curiosity+%3E+pretending+to+know+everything"/>
 
 <br/>
 
