@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=820&lines=hi%2C+I'm+Anan+%F0%9F%91%8B;GeoAI+%C2%B7+GIS+%C2%B7+Fernerkundung+%F0%9F%9B%B0%EF%B8%8F;mostly+learning+how+machines+see+Earth+%F0%9F%8C%8D;%E6%88%91%E5%96%9C%E6%AC%A2%E5%9C%B0%E5%9B%BE+%C2%B7+ich+mag+Satelliten;%3E+currently+debugging+something..."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2300&pause=650&color=58A6FF&center=true&vCenter=true&width=850&lines=hi%2C+I'm+Anan+%F0%9F%91%8B;I+teach+machines+to+look+at+Earth+%F0%9F%8C%8D;GeoAI+%C2%B7+GIS+%C2%B7+Fernerkundung+%F0%9F%9B%B0%EF%B8%8F;%E6%88%91%E5%96%9C%E6%AC%A2%E5%9C%B0%E5%9B%BE+%C2%B7+ich+mag+Satelliten;probably+debugging+a+.tif+right+now..."/>
 
 <br/>
 
@@ -14,645 +14,238 @@
 
 `我喜欢地图` · `.tif > .jpg` · `maps < data` · `EPSG matters`
 
-*still figuring things out* 🚶🏻‍♀️
-
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nandaisnanda&style=flat-square&label=earthlings+passing+by"/>
-<img src="https://img.shields.io/github/followers/nandaisnanda?style=flat-square&logo=github&label=humans"/>
-<img src="https://img.shields.io/badge/status-learning-2ea44f?style=flat-square"/>
-<img src="https://img.shields.io/badge/satellite-online-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-2EA44F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SATELLITE-ONLINE-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GEOMETRY-PROBABLY_VALID-F1C40F?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1500&pause=350&color=7EE787&center=true&vCenter=true&width=700&lines=%3E+connecting+to+satellite...;%3E+loading+pixels...;%3E+checking+CRS...;%3E+geometry.is_valid...;%3E+hopefully+true+%E2%9C%A8"/>
 
 </div>
 
 ---
 
-## `anan@earth:~$ whoami` 🌍
+## 🧑🏻‍💻 `anan@earth:~$ whoami`
 
-```yaml
+```yaml id="nm3h76"
 name: Anan
-species: human... probably
-
-background:
-  degree: Cartography & Remote Sensing
-  university: Universitas Gadjah Mada
+background: Cartography & Remote Sensing
 
 currently:
-  🧠 learning: how machines understand geography
-  🛰️ watching: Earth from suspiciously far away
+  🛰️ watching: Earth
+  🧠 learning: GeoAI
   🧹 building: GeoQC
-  🗺️ processing: spatial data
-  🐍 arguing_with: Python
-  🐛 debugging: probably
+  🐍 speaking_to: Python
+  🐛 debugging: "warum???"
 
-interests:
-  - GeoAI
-  - Remote Sensing
-  - Spatial Data Engineering
-  - Graph Learning
-  - Urban Analytics
-
-status: "still figuring things out 🚶🏻‍♀️"
+status: still figuring things out 🚶🏻‍♀️
 ```
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=650&color=8B949E&center=true&vCenter=true&width=760&lines=%3E+loading+spatial+brain...;%3E+checking+CRS...;%3E+geometry.is_valid+%3D+hopefully;%3E+connecting+to+satellite...;%3E+bereit.+los+geht's+%F0%9F%9B%B0%EF%B8%8F"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1600&pause=450&color=FFB86C&center=true&vCenter=true&width=760&lines=%F0%9F%8C%8D+GIS;%F0%9F%9B%B0%EF%B8%8F+Remote+Sensing;%F0%9F%A7%A0+GeoAI;%F0%9F%95%B8%EF%B8%8F+Graph+Learning;%F0%9F%97%84%EF%B8%8F+Spatial+Engineering;%F0%9F%90%87+...and+too+many+rabbit+holes+%F0%9F%98%AD"/>
 
 </div>
 
 ---
 
-## 🧠 `brain.exe`
-
-```text
-                           🛰️
-                      SATELLITES
-                           │
-                           ▼
-                       🌍 EARTH
-                           │
-             ┌─────────────┼─────────────┐
-             ▼             ▼             ▼
-            GIS          GeoAI          RS
-             │             │             │
-             │         ┌───┴───┐         │
-             │         ▼       ▼         │
-             │        ML      GNN        │
-             │         │       │         │
-             └─────────┴───┬───┴─────────┘
-                           ▼
-                      🧠 anan.exe
-                           │
-             ┌─────────────┼─────────────┐
-             ▼             ▼             ▼
-           graphs        pixels       databases
-             │             │             │
-             └─────────────┼─────────────┘
-                           ▼
-                    "wait... why?"
-                           │
-                           ▼
-                        🐛 debug
-                           │
-                           ▼
-                      ✨ it works
-                           │
-                           ▼
-                      🐛 new bug
-```
-
----
-
-## 🐇 `current rabbit holes`
-
-<table>
-<tr>
-<td>🧠</td>
-<td><b>GeoAI</b></td>
-<td>spatial ML · graph learning · explainable GeoAI</td>
-</tr>
-
-<tr>
-<td>🛰️</td>
-<td><b>Remote Sensing</b></td>
-<td>SAR · optical · time series · multisensor fusion</td>
-</tr>
-
-<tr>
-<td>🗺️</td>
-<td><b>GIS</b></td>
-<td>networks · topology · spatial statistics · urban analytics</td>
-</tr>
-
-<tr>
-<td>🗄️</td>
-<td><b>Spatial Engineering</b></td>
-<td>PostGIS · GeoParquet · STAC · QA/QC</td>
-</tr>
-
-<tr>
-<td>🔐</td>
-<td><b>Cybersec</b></td>
-<td>mostly reading things and creating more questions</td>
-</tr>
-
-<tr>
-<td>🪙</td>
-<td><b>Crypto</b></td>
-<td>another suspicious rabbit hole</td>
-</tr>
-</table>
+## 🧰 `things I poke until they work`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1700&pause=450&color=7EE787&center=true&vCenter=true&width=760&lines=%F0%9F%A7%A0+GeoAI...;%F0%9F%9B%B0%EF%B8%8F+Remote+Sensing...;%F0%9F%95%B8%EF%B8%8F+Graph+Learning...;%F0%9F%94%90+Cybersecurity...;%F0%9F%AA%99+Crypto...;%F0%9F%90%A7+Linux...;hilfe%2C+zu+viele+rabbit+holes+%F0%9F%98%AD"/>
+### `🌍 GEO`
+
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArcGIS_Pro-2C7AC3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+### `🛰️ EARTH`
+
+<img src="https://img.shields.io/badge/Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sentinel--1-SAR-0B3D91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sentinel--2-OPTICAL-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Landsat-005288?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Rasterio-C1272D?style=for-the-badge"/>
+
+### `🧠 MACHINE`
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NetworkX-4B8BBE?style=for-the-badge"/>
+
+### `⚙️ BUILD`
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1200&pause=300&color=8B949E&center=true&vCenter=true&width=720&lines=Python+%E2%86%92+GeoPandas+%E2%86%92+PostGIS+%E2%86%92+GeoAI;Sentinel--1+%2B+Sentinel--2+%E2%86%92+%F0%9F%A7%A0;pixels+%E2%86%92+features+%E2%86%92+model+%E2%86%92+map;repeat+until+it+stops+breaking..."/>
 
 </div>
 
 ---
 
-# 🧰 `~/toolbox`
-
-### 🌍 geo/
-
-<p>
-<img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArcGIS_Pro-2C7AC3?style=flat-square"/>
-<img src="https://img.shields.io/badge/GDAL-5CAE58?style=flat-square"/>
-<img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Shapely-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/PySAL-8E44AD?style=flat-square"/>
-<img src="https://img.shields.io/badge/OSMnx-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/NetworkX-4B8BBE?style=flat-square"/>
-</p>
-
-### 🛰️ earth_observation/
-
-<p>
-<img src="https://img.shields.io/badge/Earth_Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sentinel--1-SAR-0B3D91?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sentinel--2-Optical-1565C0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Landsat-005288?style=flat-square"/>
-<img src="https://img.shields.io/badge/Rasterio-C1272D?style=flat-square"/>
-<img src="https://img.shields.io/badge/xarray-0A9396?style=flat-square"/>
-<img src="https://img.shields.io/badge/rioxarray-1D7874?style=flat-square"/>
-<img src="https://img.shields.io/badge/STAC-2F4858?style=flat-square"/>
-</p>
-
-### 🧠 machines/
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
-</p>
-
-### 🗄️ data/
-
-<p>
-<img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/GeoParquet-1A1AFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
-
-### 🌐 web/
-
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-</p>
-
----
-
-# 🧹 `currently building: GeoQC`
+## 🧹 `currently building`
 
 <div align="center">
+
+# GeoQC
+
+### `geospatial data walks in → suspicious geometry walks out crying`
 
 <a href="https://github.com/nandaisnanda/GeoQC">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nandaisnanda&repo=GeoQC&theme=github_dark&hide_border=true"/>
+<img src="https://img.shields.io/badge/OPEN_SOURCE-GeoQC-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+`geometry` → `CRS` → `schema` → `duplicates` → `QA/QC`
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1700&pause=500&color=7EE787&center=true&vCenter=true&width=750&lines=%3E+reading+suspicious.geojson...;%3E+checking+geometry...;%3E+checking+CRS...;%3E+checking+schema...;%3E+please_be_valid.geojson+%E2%9C%A8"/>
 
 </div>
 
-A small open-source attempt at making **geospatial QA/QC a little less painful**.
+Because:
 
-```text
-       suspicious.geojson
-               │
-               ▼
-          ┌─────────┐
-          │  GeoQC  │ 🧹
-          └────┬────┘
-               │
-      ┌────────┼────────┬──────────┐
-      ▼        ▼        ▼          ▼
-  geometry    CRS     schema    duplicates
-      │        │        │          │
-      └────────┴────────┴────┬─────┘
-                             ▼
-                       QA/QC report
-                             │
-                             ▼
-                     hopefully valid ✨
-```
-
-Because this:
-
-```python
+```python id="5im7ja"
 gdf.is_valid.all()
 ```
 
-should **not** be an emotionally significant event.
+should not be an emotionally significant event.
 
-`noch in Arbeit` · `还在学习` · `still building` 🛠️
+<div align="center">
 
----
+`noch in Arbeit` · `还在学习` · `still building 🛠️`
 
-# 🔬 `research brain`
-
-```python
-anan.brain = {
-    "GeoAI": [
-        "Graph Neural Networks",
-        "Spatial Machine Learning",
-        "Weak Supervision",
-        "Explainable GeoAI",
-    ],
-
-    "Earth Observation": [
-        "SAR + Optical Fusion",
-        "Multitemporal Remote Sensing",
-        "Satellite Classification",
-    ],
-
-    "Spatial Science": [
-        "Network Analysis",
-        "Spatial Statistics",
-        "Urban Accessibility",
-        "Spatial Inequality",
-    ],
-
-    "Engineering": [
-        "Spatial Data Quality",
-        "Reproducible Pipelines",
-        "Spatial Databases",
-    ],
-}
-
-while True:
-    anan.learn()
-    anan.build()
-    anan.break_something()
-    anan.debug()
-```
+</div>
 
 ---
 
-## 🕸️ `topology-aware things`
+## 🐇 `brain currently occupied by...`
 
-```text
-                🏙️ CITY
-                   │
-                   ▼
-             ROAD NETWORK
-                   │
-          ┌────────┴────────┐
-          ▼                 ▼
-      topology          attributes
-          │                 │
-          └────────┬────────┘
-                   ▼
-                  GNN
-                   │
-                   ▼
-           spatial prediction
-```
+<div align="center">
 
-Machines seeing locations individually:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=1400&pause=350&color=BD93F9&center=true&vCenter=true&width=820&lines=%F0%9F%A7%A0+Graph+Neural+Networks;%F0%9F%93%A1+SAR+%2B+Optical+Fusion;%F0%9F%8C%8D+Spatial+Machine+Learning;%F0%9F%95%B8%EF%B8%8F+Urban+Networks;%F0%9F%97%84%EF%B8%8F+Spatial+Data+Engineering;%F0%9F%94%90+Cybersecurity;%F0%9F%AA%99+Crypto;%F0%9F%90%A7+Linux;%F0%9F%90%87+HILFE.+TOO+MANY+RABBIT+HOLES."/>
 
-`(x₁, x₂, x₃...)`
+<br/>
 
-Me:
+### `earth observation`
 
-**aber... they're connected 😭**
+🛰️ `Sentinel-2` → 🌱 spectral information  
+📡 `Sentinel-1` → 🌧️ *clouds? kein Problem.*
 
----
+<br/>
 
-## 📡 `remote sensing according to my brain`
+### `spatial ML`
 
-```text
-                       ☀️
-                       │
-                       ▼
-                    🌍 EARTH
-                   ╱         ╲
-                  ╱           ╲
-                 ▼             ▼
-           Sentinel-2       Sentinel-1
-              👁️              📡
-            optical            SAR
-               │                │
-               │    ☁️ ☁️      │
-               │     😭         │
-               │                │
-               └───────┬────────┘
-                       ▼
-                  feature stack
-                       │
-                       ▼
-                      🧠
-                  spatial ML
-                       │
-                       ▼
-                  🌍 prediction
-```
+🗺️ `place` → 🕸️ `relationships` → 🧠 `model`
 
-Sentinel-2 seeing clouds:
+<br/>
 
-**`tschüss 👋`**
+### `current scientific opinion`
 
-Sentinel-1:
+**locations are not independent spreadsheet rows.**
 
-**`kein Problem. 📡`**
+</div>
 
 ---
 
-# 🗺️ `spatial philosophy.txt`
+## 🗺️ `anan.rules`
 
-```diff
+```diff id="bcd3w4"
 + geography matters
-+ topology contains information
++ topology matters
++ CRS matters
++ reproducibility matters
 + .tif > .jpg
 + data > decorative maps
-+ spatial validation matters
-+ CRS is not decoration
-+ reproducibility > screenshots
-+ automation > repetitive clicking
-+ PostGIS deserves more love
-+ satellites are cool
 
-- measuring distance in EPSG:4326
-- random split on spatially dependent data
-- unnamed coordinate systems
-- "it looks correct on the map"
-- final_final_REAL_v7_USE_THIS.shp
+- EPSG:4326 for distance
+- random spatial splits
+- final_final_REAL_v7.shp
+- "looks right to me"
 ```
 
-`地图很好看，但数据更重要。`
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=550&color=FF7B72&center=true&vCenter=true&width=700&lines=%3E+WARNING%3A+unknown+CRS;%3E+WARNING%3A+invalid+geometry;%3E+WARNING%3A+spatial+leakage;%3E+Anan.exe+is+becoming+concerned+%F0%9F%98%AD"/>
+
+</div>
 
 ---
 
-# 🐛 `a completely normal day`
+## 🖥️ `systemctl status anan`
 
-```text
-07:30  💻 Büro
-07:31  ☕ booting anan.exe
-08:00  🛰️ satellite pixels
-
-09:17  🐛 bug
-09:43  🐛 bug++
-10:21  🐛 "interesting"
-11:58  🇩🇪 warum funktioniert das nicht???
-
-12:00  🍜 LUNCH
-12:31  🧠 brain restored
-12:47  💡 WAIT I KNOW
-
-13:02  ✨ fixed
-13:04  🐛 regression
-
-14:30  🐍 Python
-15:30  🗺️ map appears
-15:31  💀 wrong CRS
-
-16:50  git commit -m "pls work"
-16:51  git push
-16:52  👀 stare at GitHub
-
-17:00  🏃 raus aus dem Büro
-
-21:00  🌙 sudo shutdown now
-21:03  🧠 remembers interesting paper
-21:04  熬夜?
-
-21:04  NEIN 😭
-```
-
----
-
-# 🖥️ `systemctl status anan`
-
-```yaml
+```text id="qv1rjj"
 ● anan.service
-     Loaded: loaded
-     Active: active (learning)
+  status       active (learning)
 
-brain:
-  geoai:      █████████░  90%
-  gis:        █████████░  90%
-  rs:         ████████░░  80%
+  GeoAI        █████████░
+  GIS          █████████░
+  RS           ████████░░
+  Deutsch      ███░░░░░░░  versucht es
+  中文          ██░░░░░░░░  慢慢来
+  coffee       ███░░░░░░░  kritisch
 
-rabbit_holes:
-  cybersec:   ████░░░░░░
-  crypto:     ████░░░░░░
-  linux:      █████░░░░░
-
-languages:
-  english:    █████████░
-  german:     ███░░░░░░░  versucht es
-  chinese:    ██░░░░░░░░  慢慢来
-
-coffee:
-  ███░░░░░░░  kritisch
-
-social_battery:
-  ████░░░░░░
-
-satellite:
-  🟢 connected
-
-geometry:
-  🟡 probably valid
-
-CRS:
-  "please don't ask"
+  satellite    🟢 online
+  geometry     🟡 probably valid
+  sleep        🌙 21:00
 ```
-
----
-
-# 🕐 `ping policy`
-
-```text
-┌───────────────────────────────────────────────┐
-│                 ANAN NETWORK                  │
-├───────────────────────────────────────────────┤
-│ 💻 Büro             │ 07:30 ─────── 17:00    │
-│ 🍜 fast-ish replies │ 12:00 ─────── 13:00    │
-│ 🐌 sonst            │ high latency           │
-│ 🌙 sudo shutdown    │ 21:00                  │
-└───────────────────────────────────────────────┘
-```
-
-During office hours I'm probably working, staring at pixels, or negotiating with a database.
-
-**Best ping window:** `12:00–13:00`
-
-Otherwise:
-
-`Antwort kommt... irgendwann™`
-
-At `21:00`:
-
-```bash
-$ sudo shutdown -h now
-```
-
-熬夜?
-
-**nein 😭**
-
----
-
-# 🐍 `contribution wildlife`
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nandaisnanda/nandaisnanda/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nandaisnanda/nandaisnanda/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/nandaisnanda/nandaisnanda/output/github-contribution-grid-snake.svg"
-    alt="Anan's contribution snake"
-    width="100%"
-  />
-</picture>
-
-<br/>
-
-<sub>🐍 Python eating my contributions instead of my RAM for once.</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1300&pause=400&color=58A6FF&center=true&vCenter=true&width=720&lines=%3E+satellite%3A+ONLINE+%F0%9F%9F%A2;%3E+postgis%3A+ALIVE+%F0%9F%90%98;%3E+python%3A+behaving...;%3E+that's+suspicious.;%3E+anan.exe%3A+still+learning+%E2%9C%A8"/>
 
 </div>
 
 ---
 
-# 📊 `github telemetry`
+## 📡 `ping anan`
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=nandaisnanda&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-alt="Anan GitHub Stats"/>
+### 💻 `Büro 07:30 → 17:00`
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandaisnanda&layout=compact&theme=github_dark&hide_border=true"
-alt="Anan Top Languages"/>
+### 🍜 `fast-ish replies 12:00 → 13:00`
 
-<br/><br/>
+### 🐌 `sonst: high latency`
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=nandaisnanda&theme=github-dark-blue&hide_border=true"
-alt="Anan GitHub Streak"/>
-
-<br/><br/>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=nandaisnanda&theme=github-compact&hide_border=true&area=true"
-width="95%"
-alt="Anan Activity Graph"/>
-
-</div>
-
----
-
-# 🗃️ `tree ~/anan`
-
-```text
-anan/
-│
-├── 🛰️ satellites/
-│   ├── sentinel_1/
-│   ├── sentinel_2/
-│   ├── landsat/
-│   └── clouds_are_annoying/
-│
-├── 🌍 geo/
-│   ├── gis/
-│   ├── spatial_statistics/
-│   ├── networks/
-│   ├── topology/
-│   └── why_is_the_crs_wrong/
-│
-├── 🧠 ai/
-│   ├── spatial_ml/
-│   ├── graphs/
-│   ├── remote_sensing/
-│   └── model_final_final_REAL_v2.pt
-│
-├── 🗄️ engineering/
-│   ├── postgis/
-│   ├── geoparquet/
-│   └── pipelines/
-│
-├── 🧹 GeoQC/
-│   ├── geometry/
-│   ├── crs/
-│   └── please_be_valid.geojson
-│
-├── 🐇 rabbit_holes/
-│   ├── crypto/
-│   ├── cybersec/
-│   ├── linux/
-│   └── probably_another_one_tomorrow/
-│
-└── 🍜 lunch/
-    └── 12_00_13_00_ONLY
-```
-
----
-
-# 📡 `transmission.log`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1900&pause=700&color=7EE787&center=true&vCenter=true&width=780&lines=%3E+AI+%2F+RS+%2F+crypto+%2F+cybersec%3F;%3E+gern%2C+ping+me+%F0%9F%9B%B0%EF%B8%8F;%3E+%E6%88%91%E8%BF%98%E5%9C%A8%E5%AD%A6%E4%B9%A0...;%3E+still+figuring+things+out...;%3E+aber+das+ist+der+Spa%C3%9F+%3A%29"/>
+### 🌙 `21:00 → sudo shutdown`
 
 <br/>
 
-### `AI / RS / crypto / cybersec rabbit holes?`
-
-**gern, ping me. 🛰️**
-
-I'm probably not an expert.  
-I'm probably curious.
-
-That's usually enough to start a good conversation.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1800&pause=600&color=7EE787&center=true&vCenter=true&width=800&lines=AI+%2F+RS+%2F+crypto+%2F+cybersec%3F;gern%2C+ping+me+%F0%9F%9B%B0%EF%B8%8F;%E6%88%91%E8%BF%98%E5%9C%A8%E5%AD%A6%E4%B9%A0+%C2%B7+still+figuring+things+out;curiosity+%3E+pretending+to+know+everything"/>
 
 <br/>
 
 <a href="mailto:anandashabrinaputrig@mail.ugm.ac.id">
-<img src="https://img.shields.io/badge/Email-ping_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/nandaisnanda">
-<img src="https://img.shields.io/badge/GitHub-nandaisnanda-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-PING_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/nandaisnanda/GeoQC">
-<img src="https://img.shields.io/badge/GeoQC-explore-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-GEOQC-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=750&lines=mostly+learning+how+machines+see+Earth+%F0%9F%8C%8D;ich+lerne+noch.+%E6%88%91%E8%BF%98%E5%9C%A8%E5%AD%A6%E4%B9%A0.;one+pixel+at+a+time...+%F0%9F%9B%B0%EF%B8%8F"/>
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=900&color=8B949E&center=true&vCenter=true&width=760&lines=mostly+learning+how+machines+see+Earth+%F0%9F%8C%8D;ich+lerne+noch.+%E6%88%91%E8%BF%98%E5%9C%A8%E5%AD%A6%E4%B9%A0.;one+pixel+at+a+time...+%F0%9F%9B%B0%EF%B8%8F"/>
 
 ### `bis später · 再见 · see ya!` 🛰️
 
-<sub>
-`.tif > .jpg`
-&nbsp;·&nbsp;
-`maps < data`
-&nbsp;·&nbsp;
-`EPSG matters`
-&nbsp;·&nbsp;
-`still learning`
-</sub>
+`.tif > .jpg` · `maps < data` · `EPSG matters`
 
-<br/><br/>
+<br/>
 
 `while (!earth.isMapped()) { keepExploring(); }`
 
